@@ -1,2 +1,3 @@
-# CodeCrafters-TaskMaster-Collaborative-Story
-A collaborative GitHub project by Team CodeCrafters to build TaskMaster — a simple task management application developed for CSC 317 (Fall 2025).
+# The TaskMaster Project
+
+It was the beginning of a new project. The team sat down, ready to design a tool that would help manage tasks and organize projects. A blinking cursor on the screen waited for the first feature to be written.
