@@ -10,7 +10,7 @@ def meet_merge_guardian():
     print("Stack Trace nodded, 'Only those with clean commits may proceed.'")
     print("Sir Git tightened his grip on the glowing sword, 'Let us face the ultimate check.'")
     print("Lady Commit whispered, 'With each resolved issue, our story grows stronger.'")
-    print("The cursor blinked with purpose, ready to make history—one pull request at a time.")
+    print("The cursor blinked with purpose, ready to make history; one pull request at a time.")
 
 meet_merge_guardian()
 
